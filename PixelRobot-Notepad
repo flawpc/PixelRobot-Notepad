@@ -1,0 +1,2 @@
+javascript:!function(){(function(o){o.write('%3Cbody%20contenteditable%20style=%22font:12px%20monospace;%20max-width:50em;%20margin:0;%20padding:10px;%22%3E');var%20e=%22PixelRobot%22,n=o.querySelector(%22body%22);void%200!=localStorage[e]%3Fn.innerHTML=localStorage[e]:n.innerHTML=%22Type%20your%20notes%20here%22,n.oninput=function(){localStorage[e]=n.innerHTML}})(document)}();
+
